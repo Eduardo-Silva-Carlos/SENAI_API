@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "FEwXcOmeJM8ssnDJlTJeojYCHHE8779pg9u/ZvA9j0U=",
+  "Source": "ProjectWeb",
+  "BasePath": "_content/ProjectWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjectWeb\\wwwroot",
+      "Source": "ProjectWeb",
+      "ContentRoot": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\ProjectWeb\\wwwroot\\",
+      "BasePath": "_content/ProjectWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\ProjectWeb\\wwwroot\\Produto.html",
+      "SourceId": "ProjectWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlo\\OneDrive\\Área de Trabalho\\ProjectWeb\\wwwroot\\",
+      "BasePath": "_content/ProjectWeb",
+      "RelativePath": "Produto.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Produto.html"
+    }
+  ]
+}

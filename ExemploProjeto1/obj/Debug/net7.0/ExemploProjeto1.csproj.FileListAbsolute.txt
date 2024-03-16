@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\bin\Debug\net7.0\ExemploProjeto1.exe
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\bin\Debug\net7.0\ExemploProjeto1.deps.json
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\bin\Debug\net7.0\ExemploProjeto1.runtimeconfig.json
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\bin\Debug\net7.0\ExemploProjeto1.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\bin\Debug\net7.0\ExemploProjeto1.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ExemploProjeto1.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ExemploProjeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ExemploProjeto1.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ExemploProjeto1.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ExemploProjeto1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ExemploProjeto1.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\refint\ExemploProjeto1.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ExemploProjeto1.pdb
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ExemploProjeto1.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\ExemploProjeto1\obj\Debug\net7.0\ref\ExemploProjeto1.dll
