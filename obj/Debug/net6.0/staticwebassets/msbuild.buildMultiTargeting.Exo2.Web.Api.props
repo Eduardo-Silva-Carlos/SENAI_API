@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Exo2.Web.Api.props" />
+</Project>
